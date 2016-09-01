@@ -1,0 +1,438 @@
+{
+    
+    "objList": [
+                {
+                "obj":
+                {
+                "comment": "1",
+                "id": "ticket1",
+                "type": "skeleton",
+                "position": "800,400,0",
+                "scale": "0.015,0.015,0.015",
+                "rotation": "180,0,0",
+                "sizeX": "100",
+                "sizeY": "100",
+                "sizeZ": "100",
+                "visiable": "1",
+                "dynamicRes": {
+                "type": "md5",
+                "resource": "res/butter.scnassets/A/A.DAE",
+                "skeletonAnimations": [
+                                       {
+                                       "name":"A_wait-1",
+                                       "resource":"res/butter.scnassets/A/A_wait.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.8",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"A_jinzhang-1",
+                                       "resource":"res/butter.scnassets/A/A_jinzhang.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"A_happy-1",
+                                       "resource":"res/butter.scnassets/A/A_happy.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"A_wanshua-1",
+                                       "resource":"res/butter.scnassets/A/A_wanshua.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       }
+                                       ]
+                }
+                },
+                "config":
+                {
+                "iscoupon":"1",
+                "proportion":"0",
+                "aniidlename":"A_wait-1",
+                "anihitname":"A_wanshua-1",
+                "aniunhappyname":"A_jinzhang-1",
+                "anihappyname":"A_happy-1",
+                "catchedmusic":"",
+                "catchedshake":"1",
+                "flybottomduring":"10",
+                "flytopduring":"13",
+                "flyspeedrandom":"1",
+                "templatename":"templatenameA",
+                "showtryCatchtime":"2",
+                "catchRotateX":"0",
+                "catchRotateY":"0",
+                "catchRotateZ":"0",
+                "catchRemoveToX":"0",
+                "catchRemoveToY":"-18",
+                "catchRemoveToZ":"-200",
+                "priseRotateX":"0",
+                "priseRotateY":"0",
+                "priseRotateZ":"0",
+                "priseRemoveToX":"0",
+                "priseRemoveToY":"50",
+                "priseRemoveToZ":"0",
+                "priseScaleX":"0.020",
+                "priseScaleY":"0.020",
+                "priseScaleZ":"0.020",
+                "tryCatchedTexture":"res/butter.scnassets/A/0_A_wanshua.png",
+                "catchedTexture":"res/butter.scnassets/A/0_A-happy.png",
+                "unCatchedTexture":"res/butter.scnassets/A/0_A-jinzhang.png",
+                "catchedTextureNodeName":"wanzi"
+                }
+                },
+                {
+                "obj":
+                {
+                "comment": "1",
+                "id": "ticket2",
+                "type": "skeleton",
+                "position": "800,400,0",
+                "scale": "0.015,0.015,0.015",
+                "rotation": "180,0,0",
+                "sizeX": "100",
+                "sizeY": "100",
+                "sizeZ": "100",
+                "visiable": "1",
+                "dynamicRes": {
+                "type": "md5",
+                "resource": "res/butter.scnassets/B/B.DAE",
+                "skeletonAnimations": [
+                                       {
+                                       "name":"B_wait-1",
+                                       "resource":"res/butter.scnassets/B/B_wait.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.8",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"B_jinzhang-1",
+                                       "resource":"res/butter.scnassets/B/B_jinzhang.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"B_happy-1",
+                                       "resource":"res/butter.scnassets/B/B_happy.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"B_wanshua-1",
+                                       "resource":"res/butter.scnassets/B/B_wanshua.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       }
+                                       ]
+                }
+                },
+                "config":
+                {
+                "iscoupon":"1",
+                "proportion":"0",
+                "aniidlename":"B_wait-1",
+                "anihitname":"B_wanshua-1",
+                "aniunhappyname":"B_jinzhang-1",
+                "anihappyname":"B_happy-1",
+                "catchedmusic":"",
+                "catchedshake":"1",
+                "flybottomduring":"10",
+                "flytopduring":"13",
+                "flyspeedrandom":"1",
+                "templatename":"templatenameB",
+                "showtryCatchtime":"2",
+                "catchRotateX":"0",
+                "catchRotateY":"0",
+                "catchRotateZ":"0",
+                "catchRemoveToX":"0",
+                "catchRemoveToY":"-18",
+                "catchRemoveToZ":"-200",
+                "priseRotateX":"0",
+                "priseRotateY":"0",
+                "priseRotateZ":"0",
+                "priseRemoveToX":"0",
+                "priseRemoveToY":"50",
+                "priseRemoveToZ":"0",
+                "priseScaleX":"0.020",
+                "priseScaleY":"0.020",
+                "priseScaleZ":"0.020",
+                "tryCatchedTexture":"res/butter.scnassets/B/0_B_wanshua.png",
+                "catchedTexture":"res/butter.scnassets/B/0_B_happy.png",
+                "unCatchedTexture":"res/butter.scnassets/B/0_B_jinzhang.png",
+                "catchedTextureNodeName":"wanzi"
+                }
+                },
+                {
+                "obj":
+                {
+                "comment": "1",
+                "id": "ticket3",
+                "type": "skeleton",
+                "position": "800,400,0",
+                "scale": "0.015,0.015,0.015",
+                "rotation": "180,0,0",
+                "sizeX": "100",
+                "sizeY": "100",
+                "sizeZ": "100",
+                "visiable": "1",
+                "dynamicRes": {
+                "type": "md5",
+                "resource": "res/butter.scnassets/C/C.DAE",
+                "skeletonAnimations": [
+                                       {
+                                       "name":"C_wait-1",
+                                       "resource":"res/butter.scnassets/C/C_wait.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.8",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"C_jinzhang-1",
+                                       "resource":"res/butter.scnassets/C/C_jinzhang.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"C_happy-1",
+                                       "resource":"res/butter.scnassets/C/C_happy.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"C_wanshua-1",
+                                       "resource":"res/butter.scnassets/C/C_wanshua.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       }
+                                       ]
+                }
+                },
+                "config":
+                {
+                "iscoupon":"1",
+                "proportion":"0",
+                "aniidlename":"C_wait-1",
+                "anihitname":"C_wanshua-1",
+                "aniunhappyname":"C_jinzhang-1",
+                "anihappyname":"C_happy-1",
+                "catchedmusic":"",
+                "catchedshake":"1",
+                "flybottomduring":"10",
+                "flytopduring":"13",
+                "flyspeedrandom":"1",
+                "templatename":"templatenameC",
+                "showtryCatchtime":"2",
+                "catchRotateX":"0",
+                "catchRotateY":"0",
+                "catchRotateZ":"0",
+                "catchRemoveToX":"0",
+                "catchRemoveToY":"-18",
+                "catchRemoveToZ":"-200",
+                "priseRotateX":"0",
+                "priseRotateY":"0",
+                "priseRotateZ":"0",
+                "priseRemoveToX":"0",
+                "priseRemoveToY":"50",
+                "priseRemoveToZ":"0",
+                "priseScaleX":"0.020",
+                "priseScaleY":"0.020",
+                "priseScaleZ":"0.020",
+                "tryCatchedTexture":"res/butter.scnassets/C/0_C_wanshua.png",
+                "catchedTexture":"res/butter.scnassets/C/0_C_happy.png",
+                "unCatchedTexture":"res/butter.scnassets/C/0_C_jinzhang.png",
+                "catchedTextureNodeName":"wanzi"
+                }
+                },
+                {
+                "obj":
+                {
+                "comment": "1",
+                "id": "ticket4",
+                "type": "skeleton",
+                "position": "800,400,0",
+                "scale": "0.015,0.015,0.015",
+                "rotation": "180,0,0",
+                "sizeX": "100",
+                "sizeY": "100",
+                "sizeZ": "100",
+                "visiable": "1",
+                "dynamicRes": {
+                "type": "md5",
+                "resource": "res/butter.scnassets/D/jiben.DAE",
+                "skeletonAnimations": [
+                                       {
+                                       "name":"jiben_wait-1",
+                                       "resource":"res/butter.scnassets/D/jiben_wait.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.8",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"jiben_jinzhang-1",
+                                       "resource":"res/butter.scnassets/D/jiben_jinzhang.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"jiben_happy-1",
+                                       "resource":"res/butter.scnassets/D/jiben_happy.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       },
+                                       {
+                                       "name":"jiben_wanshua-1",
+                                       "resource":"res/butter.scnassets/D/jiben_wanshua.DAE",
+                                       "fadeInDuration":"0",
+                                       "fadeOutDuration":"0",
+                                       "playSpeed":"0.5",
+                                       "playCount":"0"
+                                       }
+                                       ]
+                }
+                },
+                "config":
+                {
+                "iscoupon":"1",
+                "proportion":"0",
+                "aniidlename":"jiben_wait-1",
+                "anihitname":"jiben_wanshua-1",
+                "aniunhappyname":"jiben_jinzhang-1",
+                "anihappyname":"jiben_happy-1",
+                "catchedmusic":"",
+                "catchedshake":"1",
+                "flybottomduring":"10",
+                "flytopduring":"13",
+                "flyspeedrandom":"1",
+                "templatename":"templatenameD",
+                "showtryCatchtime":"2",
+                "catchRotateX":"0",
+                "catchRotateY":"0",
+                "catchRotateZ":"0",
+                "catchRemoveToX":"0",
+                "catchRemoveToY":"-18",
+                "catchRemoveToZ":"-200",
+                "priseRotateX":"0",
+                "priseRotateY":"0",
+                "priseRotateZ":"0",
+                "priseRemoveToX":"0",
+                "priseRemoveToY":"50",
+                "priseRemoveToZ":"0",
+                "priseScaleX":"0.020",
+                "priseScaleY":"0.020",
+                "priseScaleZ":"0.020",
+                "tryCatchedTexture":"res/butter.scnassets/D/0_jiben_wanshua.png",
+                "catchedTexture":"res/butter.scnassets/D/0_jiben_happy.png",
+                "unCatchedTexture":"res/butter.scnassets/D/0_jiben_jinzhang.png",
+                "catchedTextureNodeName":"wanzi"
+                }
+                }
+                ],
+    "couponConfig":
+    {
+        "gametype":"1",
+        "timelimit":"60",
+        "openurl":"http://www.baidu.com?temp=1",
+        "couponmaxcount":"12",
+        "couponoriginalcount":"12",
+        "couponaddtimespan":"1",
+        "zrnear":"300",
+        "zrfar":"500",
+        "cancreatenewbutter":"1",
+        "unitname":"只",
+        "couponname":"蝴蝶",
+        "needcatchcount":"3",
+        "errorinfo":"活动结束,请下次参与",
+        "centercrossimage":"",
+        "hotradius":"50",
+        "animationpath":"lookat",
+        "catchCouponType":"click",
+        "priseConfig":[
+            {
+                "comment": "priseyes",
+                    "id": "priseyes",
+                    "type": "dynamic",
+                    "position": "0,0,-350",
+                    "scale": "3,3,3",
+                    "visiable": "1",
+                    "rotation": "0,0,0",
+                    "dynamicRes": {
+                        "type": "md2",
+                        "resource": "res/butter.scnassets/prise/yes.scn"
+                    }
+            },
+            {
+                "comment": "priseno",
+                    "id": "priseno",
+                    "type": "dynamic",
+                    "position": "0,0,-350",
+                    "scale": "3,3,3",
+                    "visiable": "1",
+                    "rotation": "0,0,0",
+                    "dynamicRes": {
+                        "type": "md2",
+                        "resource": "res/butter.scnassets/prise/no.scn"
+                    }
+            }
+        ]
+    },
+    "initConfig":
+    {
+        "probability":
+        {
+          "ticket4":"25",
+          "ticket3":"25",
+          "ticket2":"25",
+          "ticket1":"25"
+        }
+    },
+    "defaultConfig":
+    [
+        {
+            "coupon_name":"ticket1",
+            "coupon_probability":"25",
+            "coupon_type":"1"
+        },
+        {
+            "coupon_name":"ticket2",
+            "coupon_probability":"25",
+            "coupon_type":"2"
+        },
+        {
+            "coupon_name":"ticket3",
+            "coupon_probability":"25",
+            "coupon_type":"3"
+        },
+        {
+            "coupon_name":"ticket4",
+            "coupon_probability":"25",
+            "coupon_type":"4"
+        }
+    ]
+}
